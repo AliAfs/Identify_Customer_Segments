@@ -43,7 +43,7 @@ Load the demographics data for the general population and the feature attributes
 - Apply k-means clustering to the general population and determine the optimal number of clusters.
 
 #### Step 3.2: Apply All Steps to the Customer Data
-- Apply the same feature wrangling, selection, and engineering steps to the customer demographics using the clean_data() function.
+- Apply the same feature wrangling, selection, and engineering steps to the customer demographics.
 
 #### Step 3.3: Compare Customer Data to Demographics Data
 - Compare the cluster distributions between the general population and the customer data.
